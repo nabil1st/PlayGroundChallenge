@@ -8,10 +8,10 @@
 
 ## Architecture
 
-###Database: AWS Dynamo DB. 
-####Stores game and connection info.
+### Database: AWS Dynamo DB. 
+#### Stores game and connection info.
 
-###Backend: AWS Lambda services 
+### Backend: AWS Lambda services 
 
-###Frontend: React Native, Expo SDK, Google maps SDK.
-####ui and backend communicate via web sockets.
+### Frontend: React Native, Expo SDK, Google maps SDK.
+#### ui and backend communicate via web sockets.
