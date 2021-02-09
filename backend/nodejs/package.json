@@ -1,0 +1,13 @@
+{
+  "name": "startgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Nabil Daoud",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.434.0",
+    "random-points-on-polygon": "0.0.4",
+    "turf": "^3.0.14"
+  }
+}
